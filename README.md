@@ -5,8 +5,7 @@ Meu nome é **Felipe**, tenho 24 anos e moro em Jaú, interior de São Paulo. So
 ---
 
 - 🔭 Estudante de **Web Development @ [Trybe](betrybe.com)**
-- 🌱 Atualmente estudando **Javascript, React & Redux**
-- 👯 No momento procuro trabalhar como **Front-end Developer** mas meu objetivo é **Full-stack**
+- 👯 Meu objetivo atual é iniciar minha carreira como desenvolvedor web **full-stack**
 - 📫 Como me encontrar:
   **<a href="https://www.linkedin.com/in/felipemmmori/">Linkedin</a>**
   **<a href="fmatheusog@gmail.com">E-mail</a>**
