@@ -1,15 +1,12 @@
-## Olá 👋
+## Olá!
 
-Meu nome é **Felipe**, tenho 24 anos e moro em Jaú, interior de São Paulo. Sou formado em **Gestão da Tecnologia da Informação** pela FATEC-JAHU e **amo** tecnologia!
+Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. Sou formado em **Gestão da Tecnologia da Informação** pela FATEC-JAHU e **amo** tecnologia!
 
 ---
 
 - 🔭 Estudante de **Web Development @ [Trybe](betrybe.com)**
-- 👯 Meu objetivo atual é iniciar minha carreira como desenvolvedor web **full-stack**
-- 📫 Como me encontrar:
-  **<a href="https://www.linkedin.com/in/felipemmmori/">Linkedin</a>**
-  **<a href="fmatheusog@gmail.com">E-mail</a>**
-  
+- 👯 Meu objetivo atual é iniciar minha carreira como desenvolvedor
+
 ---
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -17,7 +14,4 @@ Meu nome é **Felipe**, tenho 24 anos e moro em Jaú, interior de São Paulo. So
 
 ---
 
-<a href="https://github.com/fmatheusog">
- <img style="float: right" align="center" src="https://github-readme-stats.vercel.app/api?username=fmatheusog&show_icons=true" alt="Felipe's github stats"/>
-</a>
 
