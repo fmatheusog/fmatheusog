@@ -2,7 +2,7 @@ Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. T�
 
 ---
 
-- 🔭 Formado no curso de **Web Development da [Trybe](betrybe.com)**
+- 🔭 Formado no curso de **Web Development** da **[Trybe](betrybe.com)**
 - 👯 Meu objetivo atual é iniciar minha carreira como desenvolvedor
 
 ---
