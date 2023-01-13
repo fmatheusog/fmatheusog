@@ -1,10 +1,8 @@
-## Olá!
-
-Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. Sou formado em **Gestão da Tecnologia da Informação** pela FATEC-JAHU e **amo** tecnologia!
+Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. Técnico em Informática formado pela ETEC e **Gestão da Tecnologia da Informação** pela FATEC-JAHU e **amo** tecnologia!
 
 ---
 
-- 🔭 Estudante de **Web Development @ [Trybe](betrybe.com)**
+- 🔭 Formado no curso de **Web Development da [Trybe](betrybe.com)**
 - 👯 Meu objetivo atual é iniciar minha carreira como desenvolvedor
 
 ---
