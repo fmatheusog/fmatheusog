@@ -4,7 +4,7 @@ Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. T�
 
 - 🔭 Formado no curso de **desenvolvimento web** @ **[Trybe](betrybe.com)**
 - 🔭 Cursando **Ciência da Computação** @ [Estácio](estacio.br)
-- 👯 Área de interesse: desenvolvimento back-end
+- 👯 Área de interesse: desenvolvimento full-stack
 
 ---
 
