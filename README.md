@@ -2,8 +2,8 @@ Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. T�
 
 ---
 
-- 🔭 Formado no curso de **desenvolvimento web** @ **[Trybe](betrybe.com)**
-- 🔭 Cursando **Ciência da Computação** @ [Estácio](estacio.br)
+- 🔭 Formado em **desenvolvimento web** @ **[Trybe](betrybe.com)**
+- 🔭 **Ciência da Computação** @ [Estácio](estacio.br)
 - 👯 Área de interesse: back-end
 
 ---
@@ -22,6 +22,4 @@ Meu nome é **Felipe**, tenho 25 anos e moro em Jaú, interior de São Paulo. T�
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmatheusog&show_icons=true&locale=en&layout=compact" alt="fmatheusog" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fmatheusog&show_icons=true&locale=en" alt="fmatheusog" /></p>
 
