@@ -1,10 +1,10 @@
-Meu nome é **Felipe**, tenho 26 anos e moro em Jaú, interior de São Paulo. Técnico em Informática formado pela ETEC e Tecnologo em **Gestão da Tecnologia da Informação** pela FATEC-JAHU. Atualmente cursando Bacharel em Ciência da Computação e trabalhando como Desenvolvedor Frontend na OnFriday.
+Meu nome é **Felipe**, tenho 26 anos e moro em Jaú, interior de São Paulo. Técnico em Informática formado pela ETEC e Tecnologo em **Gestão da Tecnologia da Informação** pela FATEC-JAHU. Atualmente cursando Bacharel em Ciência da **Computação**.
 
 ---
 
 - 🔭 Formado em **desenvolvimento web** @ **[Trybe](betrybe.com)**
 - 🔭 **Ciência da Computação** @ [Estácio](estacio.br)
-- 👯 Área de interesse: back-end
+- 👯 Área de maior interesse: back-end
 
 ---
 
