@@ -1,8 +1,6 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias.
-- 🎓 Tecnólogo em Gestão de TI e Técnico de Informática.
-- 🌱 Aprendendo mais sobre Ruby on Rails.
+Profissional em busca de desafios que me permitam aprimorar e aprofundar meus conhecimentos. Com uma base sólida, me destaco pelas habilidades analíticas e capacidade de adaptação. Estou à procura de oportunidades que me permitam aplicar e expandir minhas competências, contribuindo para o crescimento e sucesso da equipe e da organização.
 
 ## Minhas Skills
 
