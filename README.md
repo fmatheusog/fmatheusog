@@ -15,7 +15,6 @@ Profissional em busca de desafios que me permitam aprimorar e aprofundar meus co
 
 **Frameworks**
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
