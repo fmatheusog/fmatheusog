@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias.
+- 🤔 Sempre explorando novas tecnologias.
 - 🎓 Técnologo em Gestão da Tecnologia da Informação.
-- 🌱 Aprendendo mais sobre Laravel e Ruby on Rails.
+- 🌱 No momento, estudando Salesforce (Apex, SOQL e Aura/LWC).
 
 ## Minhas Skills
 
@@ -11,6 +11,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
