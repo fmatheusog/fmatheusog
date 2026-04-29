@@ -2,7 +2,6 @@
 
 - 🤔 Sempre explorando novas tecnologias.
 - 🎓 Técnologo em Gestão da Tecnologia da Informação.
-- 🌱 No momento, estudando Salesforce (Apex, SOQL e Aura/LWC).
 
 ## Minhas Skills
 
