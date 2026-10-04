@@ -1,38 +1,32 @@
-## Sobre mim
+# Felipe Mori
 
-- 🤔 Sempre explorando novas tecnologias.
-- 🎓 Técnologo em Gestão da Tecnologia da Informação.
+**Senior Software Engineer | C#/.NET | TypeScript | React**
 
-## Minhas Skills
+Software engineer with a full-stack background and experience building web applications across multiple product domains, including financial platforms, event ticketing, dashboards, customer-service systems, and third-party integrations.
 
-**Linguagens de programação**
+I started my software-development career as an intern and progressed internally to Senior Software Engineer. My current focus is on maintainable product systems, integrations, and user-facing applications, with attention to engineering quality and practical trade-offs.
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+## Core stack
 
-**Frameworks**
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Azure Functions
+- **Frontend:** TypeScript, JavaScript, React, Blazor
+- **Data:** PostgreSQL, SQL Server, MySQL, MongoDB
+- **Engineering:** Docker, Git, Azure DevOps, automated testing, SOLID
+- **Integrations:** payment gateways, PDF generation, email, SMS, WhatsApp and chatbot integrations
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
-![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=rubyonrails)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+## Experience highlights
 
-**Bancos de dados**
+- Built the complete UI for a platform focused on bullying reporting.
+- Worked on a barbershop-management product with AI-assisted customer service.
+- Contributed to an event-ticketing platform.
+- Led a complete UI restructuring of an internet-banking product in a BaaS context.
+- Built management and financial dashboards for multiple products.
+- Implemented and maintained integrations with external services and communication channels.
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+## Portfolio
 
-## Onde me encontrar
+I am currently rebuilding this GitHub as a professional engineering portfolio. Public projects will focus on demonstrating architecture, testing, observability, integration patterns, reliability, and technical decision-making rather than tutorial-style CRUD applications.
 
-[![Linkedin](https://img.shields.io/badge/-felipemmmori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemmmori/)](https://www.linkedin.com/in/felipemmmori/)
-[![Gmail Badge](https://img.shields.io/badge/-fmatheusog@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/fmatheusog?label=follow&style=social)](https://github.com/fmatheusog)
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/felipemmmori/
