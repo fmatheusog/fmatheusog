@@ -19,9 +19,9 @@ I started my software-development career as an intern and progressed internally 
 - Built the complete UI for a platform focused on bullying reporting.
 - Worked on a barbershop-management product with AI-assisted customer service.
 - Contributed to an event-ticketing platform.
-- Led a complete UI restructuring of an internet-banking product in a BaaS context.
+- Completed a full UI restructuring of an internet-banking product in a BaaS context.
 - Built management and financial dashboards for multiple products.
-- Implemented and maintained integrations with external services and communication channels.
+- Worked with external-service integrations and communication channels.
 
 ## Portfolio
 
